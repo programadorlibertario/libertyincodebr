@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="ArgumentoDeEsquerdista.cs" />
     <Compile Include="ImpostoERoubo.cs" />
+    <Compile Include="MamaeFalei.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
